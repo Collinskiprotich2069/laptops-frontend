@@ -1,0 +1,21 @@
+.header-elements {
+    background-color: rgb(32, 103, 165);
+    top: 0;
+    position: fixed;
+    width: 100%;
+    left: 0;
+}
+
+.header-elements li {
+    display: flex;
+    flex-direction: row;
+}
+
+.header-elements li ul{
+    
+}
+
+
+
+
+
