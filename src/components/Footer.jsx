@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <>
-      <p>created by  collins kiprotich</p>
+      <p> &copy; { new Date().getFullYear() } created by  collins kiprotich</p>
     </>
   );
 }

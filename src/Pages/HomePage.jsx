@@ -1,10 +1,12 @@
 
+import Footer from "../components/Footer";
 import LaptopsCard from "../components/LaptopsCard";
 
 function Home() {
   return (
     <>
-      <LaptopsCard/>
+      <LaptopsCard />
+      <Footer/>
     </>
   );
 }

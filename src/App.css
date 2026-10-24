@@ -1,0 +1,19 @@
+.header-elements {
+    background-color: rgba(32, 103, 165);
+    top: 0;
+    position: fixed;
+    max-width: fit-content;
+    justify-self: center;
+    padding: 10px;
+}
+
+.header-elements li {
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    
+}
+
+.header-elements li ul {
+
+}
